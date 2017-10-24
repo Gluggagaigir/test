@@ -28,5 +28,10 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+
+    compile 'com.sparkjava:spark-core:2.6.0'
 }
 
+task stage {
+  dependsOn installDist
+}
