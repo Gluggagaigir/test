@@ -4,11 +4,11 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class TestTest {
+public class TesttTest {
 
 	@Test
 	public void test1() {
-		Test test = new Test();
+		Testt test = new Testt();
 		assertEquals(1, test.tst());
 	}
 }

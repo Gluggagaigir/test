@@ -1,6 +1,6 @@
 package is.ru.hugb;
 
-public class Test {
+public class Testt {
 
 	public static int tst() {
 		return 1;
