@@ -21,6 +21,6 @@ public class Testt {
 	}
 
 	public static int tst() {
-		return 1;
+		return 2;
 	}
 }
